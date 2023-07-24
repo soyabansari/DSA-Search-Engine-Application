@@ -1,0 +1,48 @@
+h3.Questiontitle {
+    align-content: center;
+    font-size: larger;
+}
+
+body{
+    background-color: khaki;
+    text-align: center;
+}
+
+
+h1 {
+    color: black;
+    text-align: center;
+}
+input::placeholder{
+    color: magenta;
+    font-size: large;
+}
+
+
+input {
+    color: black;
+    width: 40%;
+    height: 31px;
+    font-size: large;
+}
+
+button{
+    background-color: lightblue;
+    height: 35px;
+    width: 7%;
+}
+
+.empty {
+    color: red;
+    background-color: lightgray;
+}
+
+.question{
+    text-align: left; 
+    position: relative;
+    left: 350px;
+}
+
+.body {
+    font-size: large;
+}
